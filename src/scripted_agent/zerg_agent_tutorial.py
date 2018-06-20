@@ -1,3 +1,6 @@
+# Code following from tutorial at:
+# https://itnext.io/build-a-zerg-bot-with-pysc2-2-0-295375d2f58e
+
 ##Some idiotic setup just to check that devenv is set up correctly.
 
 try:
